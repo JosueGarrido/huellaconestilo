@@ -1,0 +1,13 @@
+{
+  "name": "huellaconestilo",
+  "version": "1.0.0",
+  "description": "Landing page para pañuelos de mascotas sostenibles",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required for static site'",
+    "start": "echo 'Static site - no start script needed'"
+  },
+  "keywords": ["mascotas", "sostenible", "pañuelos", "reciclaje"],
+  "author": "Huella Con Estilo",
+  "license": "MIT"
+}
